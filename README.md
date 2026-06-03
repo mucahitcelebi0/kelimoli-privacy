@@ -1,8 +1,8 @@
-# Kelimoli Privacy Policy
+﻿# Kelimoli Privacy Policy
 
 Kelimoli mobil uygulamasının gizlilik politikası — Türkçe ve İngilizce.
 
 - 🇹🇷 [Türkçe](index.md)
 - 🇬🇧 [English](en.md)
 
-İletişim: fsamibilgin@gmail.com
+İletişim: muhammetmucahit56@gmail.com
